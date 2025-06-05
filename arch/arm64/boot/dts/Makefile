@@ -22,6 +22,7 @@ subdir-y += mediatek
 subdir-y += microchip
 subdir-y += nuvoton
 subdir-y += nvidia
+subdir-y += omron
 subdir-y += qcom
 subdir-y += realtek
 subdir-y += renesas
